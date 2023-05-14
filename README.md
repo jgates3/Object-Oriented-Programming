@@ -1,6 +1,4 @@
-# Object-Oriented-Programming
-CSE 165
- 
+
 ## CSE 165 Project Overview
 - Due by Dec 11 by 11:59pm
 - Made in SFML (Simple and Fast Multimedia Library)
